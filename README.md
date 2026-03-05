@@ -40,7 +40,7 @@ View the [Demo](https://github.com/jai409/jaijal-portfolio/).
     npm start
     ```
 
-4. Open [http://localhost:3000](http://localhost:3000) to view the app in the browser.
+4. Open [http://localhost:3001/portfolio-template](http://localhost:3001) to view the app in the browser.
 
 5. Customize the template by navigating to the `/src/components` directory. Modify texts, pictures, and other information as needed.
 
